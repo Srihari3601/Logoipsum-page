@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Form Prototype</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="form-container">
+    <div class="form-header">
+      <img src="images/logo.svg" alt="Logo" class="logo">
+    </div>
+    <form id="registration-form" novalidate>
+      <div class="form-row">
+        <label>First Name</label>
+        <input type="text" id="first-name">
+      </div>
+      <div class="form-row">
+        <label>Last Name</label>
+        <input type="text" id="last-name">
+      </div>
+      <div class="form-row">
+        <label>Email <span class="required">*</span></label>
+        <input type="email" id="email">
+      </div>
+      <div class="form-row">
+        <label>Password <span class="required">*</span></label>
+        <input type="password" id="password" required>
+      </div>
+      <div class="form-row">
+        <label>Country Code</label>
+        <input type="text" id="country-code">
+      </div>
+      <div class="form-row">
+        <label>Phone Number</label>
+        <input type="text" id="phone-number">
+      </div>
+      <div class=" checkbox">
+        <input type="checkbox" id="terms">
+        <label for="terms">I agree to the <a href="#">terms of logoipsum </a>and acknowledge that I can receive emails on product updates from logoipsum.</label>
+      </div>
+      <div class="submit">
+        <button type="submit" id="submit-btn">Create My Account</button>
+      </div>
+    </form>
+  </div>
+  
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>

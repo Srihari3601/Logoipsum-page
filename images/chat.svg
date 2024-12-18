@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <style>
+    .st11 { stroke: #333; fill: none; stroke-miterlimit: 10; stroke-linecap: round; }
+    .st17 { stroke: #333; fill: none; stroke-miterlimit: 10; stroke-linecap: round; stroke-linejoin: round; }
+  </style>
+  <g id="Group_10203">
+    <path id="Path_4109" class="st11" d="M17.475,7.712c1.552,3.541-.06,7.669-3.601,9.221-.886.388-1.842.589-2.809.589H3.065c-1.103-.003-1.997-.897-2-2v-5c0-3.866,3.134-7,7-7h3c.044-.002.087.002.13.01"/>
+    <line id="Line_1205" class="st17" x1="5.565" y1="9.522" x2="9.565" y2="9.522"/>
+    <line id="Line_1206" class="st17" x1="5.565" y1="12.522" x2="13.565" y2="12.522"/>
+    <circle id="Ellipse_466" class="st17" cx="15.065" cy="7.522" r="2"/>
+  </g>
+</svg>

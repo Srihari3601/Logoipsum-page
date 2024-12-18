@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 10 20">
+  <style>
+    .st17 { stroke: #007dfc; fill: none; stroke-miterlimit: 10; stroke-linecap: round; stroke-linejoin: round; }
+  </style>
+  <g id="Group_10197">
+    <path id="Path_4103" class="st17" d="M6.065,3.522h1c1.657,0,3,1.343,3,3v9c0,1.657-1.343,3-3,3h-8c-1.657,0-3-1.343-3-3v-9c0-1.657,1.343-3,3-3h1"/>
+    <path id="Path_4104" class="st17" d="M5.065,4.522h-4c-.552,0-1-.448-1-1s.448-1,1-1h4c.552,0,1,.448,1,1s-.448,1-1,1Z"/>
+    <line id="Line_1202" class="st17" x1="-0.935" y1="8.522" x2="7.065" y2="8.522"/>
+    <line id="Line_1203" class="st17" x1="-0.935" y1="11.522" x2="5.065" y2="11.522"/>
+    <line id="Line_1204" class="st17" x1="-0.935" y1="14.522" x2="3.065" y2="14.522"/>
+  </g>
+</svg>

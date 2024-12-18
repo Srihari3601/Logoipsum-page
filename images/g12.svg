@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16.139584mm"
+   height="14.2875mm"
+   viewBox="0 0 16.139584 14.2875"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       id="clippath">
+      <rect
+         class="st5"
+         x="124.75"
+         y="2.2709999"
+         width="61"
+         height="54"
+         id="rect1" />
+    </clipPath>
+    <clipPath
+       id="clippath-1">
+      <rect
+         class="st5"
+         x="132.75"
+         y="9.2709999"
+         width="49"
+         height="43"
+         id="rect2" />
+    </clipPath>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-164.8354,-140.75834)">
+    <g
+       class="st40"
+       clip-path="url(#clippath)"
+       id="g12"
+       transform="matrix(0.26458333,0,0,0.26458333,131.82865,140.15746)">
+      <g
+         id="Group_10331">
+        <g
+           id="Group_10330"
+           class="st38"
+           style="opacity:0.2">
+          <g
+             id="Group_10329">
+            <g
+               class="st29"
+               clip-path="url(#clippath-1)"
+               id="g11">
+              <g
+                 id="Group_10328">
+                <path
+                   id="Path_4570"
+                   class="st34"
+                   d="m 182.114,12.156 v 31.913 c 0,4.665 -3.782,8.447 -8.447,8.448 h -39.423 c -0.58,-0.001 -1.159,-0.061 -1.727,-0.177 -0.098,-0.561 -0.148,-1.13 -0.15,-1.7 V 18.726 c 0.002,-5.183 4.203,-9.384 9.386,-9.386 h 39.873 c 0.325,0.903 0.49,1.856 0.488,2.816"
+                   style="fill:#fca7a7" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <line
+           id="Line_1300"
+           class="st4"
+           x1="125.75"
+           y1="15.271"
+           x2="181.75"
+           y2="15.271"
+           style="fill:none;stroke:#ef8989;stroke-width:2px;stroke-miterlimit:10" />
+        <path
+           id="Path_4571"
+           class="st37"
+           d="m 170.85,9.34 c 0,1.037 -0.84,1.877 -1.877,1.877 -1.037,0 -1.877,-0.84 -1.877,-1.877 0,-1.037 0.84,-1.877 1.877,-1.877 1.037,0 1.877,0.84 1.877,1.877"
+           style="fill:#ef8989" />
+        <path
+           id="Path_4572"
+           class="st37"
+           d="m 176.482,9.34 c 0,1.037 -0.84,1.877 -1.877,1.877 -1.037,0 -1.877,-0.84 -1.877,-1.877 0,-1.037 0.84,-1.877 1.877,-1.877 1.037,0 1.877,0.84 1.877,1.877"
+           style="fill:#ef8989" />
+        <rect
+           id="Rectangle_4298"
+           class="st4"
+           x="125.75"
+           y="3.2709999"
+           width="55"
+           height="49"
+           rx="9"
+           ry="9"
+           style="fill:none;stroke:#ef8989;stroke-width:2px;stroke-miterlimit:10" />
+        <path
+           id="Path_4573"
+           class="st37"
+           d="m 185.868,43.131 c 0,7.258 -5.883,13.141 -13.141,13.141 -7.258,0 -13.141,-5.883 -13.141,-13.141 0,-7.258 5.883,-13.141 13.141,-13.141 h 0.001 c 7.257,0 13.14,5.884 13.14,13.141"
+           style="fill:#ef8989" />
+      </g>
+    </g>
+    <g
+       id="Group_10333"
+       transform="matrix(0.26458333,0,0,0.26458333,131.82865,140.15746)">
+      <path
+         id="Path_4574"
+         class="st27"
+         d="m 172.727,34.74 c 1.972,0 3.571,1.599 3.571,3.571 0,1.972 -1.599,3.571 -3.571,3.571 -1.972,0 -3.571,-1.599 -3.571,-3.571 v 0 c 0,-1.972 1.599,-3.571 3.571,-3.571"
+         style="fill:#ffffff" />
+      <path
+         id="Path_4575"
+         class="st27"
+         d="m 172.728,43.575 c 4.147,0 7.509,1.59 7.509,3.552 0,1.962 -3.362,3.553 -7.509,3.553 -4.147,0 -7.509,-1.592 -7.509,-3.553 0,-1.961 3.362,-3.552 7.509,-3.552"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>

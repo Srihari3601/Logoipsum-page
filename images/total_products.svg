@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16.390665mm"
+   height="13.106662mm"
+   viewBox="0 0 16.390665 13.106662"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       id="clippath-4">
+      <rect
+         class="st5"
+         x="134.12601"
+         y="213.895"
+         width="50"
+         height="35"
+         id="rect5" />
+    </clipPath>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-119.85625,-128.8521)">
+    <g
+       id="Group_10342"
+       transform="matrix(0.26458333,0,0,0.26458333,128.12448,120.04913)">
+      <rect
+         class="st5"
+         x="-31.25"
+         y="33.647007"
+         width="61.949001"
+         height="49.16"
+         id="rect14"
+         style="fill:none" />
+      <g
+         id="Group_10349"
+         transform="translate(-158.14,-174.62399)">
+        <path
+           id="Path_4584"
+           class="st14"
+           d="m 129.158,210.524 24.795,15.067 c 1.471,0.894 3.322,0.87 4.77,-0.06 l 23.811,-15.27"
+           style="fill:none;stroke:#c6b769;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round" />
+        <rect
+           id="Rectangle_4306"
+           class="st14"
+           x="128.12601"
+           y="208.895"
+           width="56"
+           height="40"
+           rx="4"
+           ry="4"
+           style="fill:none;stroke:#c6b769;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round" />
+        <g
+           id="Group_10348"
+           class="st38"
+           style="opacity:0.2">
+          <g
+             id="Group_10347">
+            <g
+               class="st24"
+               clip-path="url(#clippath-4)"
+               id="g15">
+              <g
+                 id="Group_10346">
+                <path
+                   id="Path_4585"
+                   class="st18"
+                   d="m 184.146,214.982 v -1.079 h -45.993 c -2.072,0.003 -3.751,1.682 -3.754,3.754 v 30.975 h 45.992 c 2.073,0 3.753,-1.679 3.754,-3.752 v -29.898 0 z"
+                   style="fill:#c6b769;fill-rule:evenodd" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <path
+           id="Path_4586"
+           class="st20"
+           d="m 188.839,244.291 c 0,7.258 -5.883,13.141 -13.141,13.141 -7.258,0 -13.141,-5.883 -13.141,-13.141 0,-7.258 5.883,-13.141 13.141,-13.141 h 0.001 c 7.257,0 13.14,5.884 13.14,13.141"
+           style="fill:#c6b769" />
+        <path
+           id="Path_4587"
+           class="st27"
+           d="m 181.921,239.537 -4.186,11.967 c -0.195,0.547 -0.797,0.833 -1.344,0.638 -0.271,-0.097 -0.491,-0.3 -0.608,-0.563 l -1.8,-4.055 2.544,-3.923 -4.111,2.45 -3.879,-1.718 c -0.53,-0.242 -0.763,-0.867 -0.522,-1.396 0.118,-0.26 0.337,-0.46 0.606,-0.556 l 11.967,-4.177 c 0.545,-0.191 1.142,0.096 1.333,0.641 0.078,0.224 0.078,0.468 0,0.692"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+</svg>

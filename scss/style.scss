@@ -1,0 +1,125 @@
+ body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+      background-color: #f9f9f9;
+      display: flex;
+      padding-top: 95px;
+    }
+
+    .form-container { 
+      top: 161px;
+      left: 535px;
+      width: 850px;
+      margin: 50px auto;
+      background: #fff;
+      padding: 30px 65px 30px 65px;
+      border: 1px solid #E3ECF5;
+      border-radius: 12px;
+    }
+
+    .form-header {
+      text-align: center;
+      padding: 20px 0 40px 0;
+    }
+
+    .form-header .logo {
+      max-width: 195px;
+      height: 39px;
+    }
+
+    form {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+
+    .form-row {
+      display: flex;
+      flex-direction: column;
+      flex: 1 1 calc(50% - 10px); /* Two items per row */
+      row-gap: 5px;
+      width: 80%;
+      margin-top: 5px;
+    }
+
+    label {
+      font-size: 16px;
+      color: #5F5F5F;
+      margin-bottom: 5px;
+    }
+
+    .required {
+        color: red;
+      }
+
+    input[type="text"],
+    input[type="email"],
+    input[type="password"] {
+      padding: 10px;
+      font-size: 14px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+
+    input:focus {
+      outline: none;
+      border-color: #007bff;
+    }
+
+    .checkbox {
+      flex: 1 1 100%;
+      display: flex;
+      gap: 10px;
+      width: 80%;
+      align-items: flex-start;
+      margin-top: 10px;
+    }
+
+    .checkbox label {
+        font-size: 14px;
+        width: 70%;
+        line-height: 24px;
+    }
+
+    .submit {
+        padding-top: 20px;
+    }
+
+    button {
+      width: 100%;
+      padding: 10px;
+      background: #0071BC;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      font-size: 17px;
+      cursor: pointer;
+      margin-bottom: 27px;
+    }
+
+    @media (max-width: 1024px) { /* For iPads */
+        .form-container {
+            width: 90%; /* Make the form take up 90% of the screen width */
+            margin: 20px auto; /* Center the form horizontally */
+            padding: 20px; /* Adjust padding for smaller screens */
+        }
+       
+    }
+
+    @media (max-width: 768px) { /* For mobile devices */
+        .form-container {
+            width: 100%; /* Make the form take up 100% of the screen width */
+            margin: 10px auto; /* Center the form horizontally */
+            padding: 15px; /* Adjust padding for smaller screens */
+        }
+
+        .form-container .form-header,
+        .form-container form {
+            display: block; /* Stack form elements vertically */
+            width: 100%; /* Make form elements take up full width */
+        }
+        button{
+            width: 80%; 
+         }
+    }
